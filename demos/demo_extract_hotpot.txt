@@ -1,0 +1,25 @@
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Mount Everest, with an elevation of 29,032 feet (8,849 meters), is recognized as the highest peak in the world and is located in the Himalayas on the border between Nepal and Tibet.
+Entities: 29,032 feet; 8,849 meters; highest peak; Himalayas; border; Nepal; Tibet
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Albert Einstein, born in Ulm, Kingdom of Württemberg in the German Empire, on 14 March 1879, developed the theory of relativity and is best known for the equation E=mc^2.
+Entities: Ulm; Kingdom of Württemberg; German Empire; 14 March 1879; theory of relativity; E=mc^2
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: The Amazon Rainforest spans nine countries and covers an area of approximately 5.5 million square kilometers, housing diverse wildlife and plant species.
+Entities: nine countries; approximately 5.5 million square kilometers; diverse wildlife; plant species
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: The Apollo 11 mission, which took place in 1969, saw astronauts Neil Armstrong and Buzz Aldrin land on the moon's surface, marking the first human moon landing.
+Entities: 1969; astronauts; Neil Armstrong; Buzz Aldrin; moon's surface; first human moon landing
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Located in Rome, the Colosseum, also known as the Flavian Amphitheatre, was used for gladiatorial contests and has a capacity of over 50,000 spectators.
+Entities: Rome; Colosseum; Flavian Amphitheatre; gladiatorial contests; capacity of over 50,000 spectators
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: The Nile, flowing through northeastern Africa, is approximately 6,650 km long and is historically known for supporting ancient civilizations.
+Entities: northeastern Africa; approximately 6,650 km; ancient civilizations
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.

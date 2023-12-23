@@ -1,0 +1,16 @@
+Question: Has Marie Curie won a Nobel Prize in Physics?
+For the above question about "Marie Curie", rewrite it into an affirmative sentence.
+Answer: Marie Curie has won a Nobel Prize in Physics.
+
+Question: Did Shakespeare write "Romeo and Juliet"?
+For the above question about "Shakespeare", rewrite it into an affirmative sentence.
+Answer: Shakespeare wrote "Romeo and Juliet".
+
+Question: Was Neil Armstrong the first man to walk on the moon?
+For the above question about "Neil Armstrong", rewrite it into an affirmative sentence.
+Answer: Neil Armstrong was the first man to walk on the moon.
+
+Question: Was Nelson Mandela imprisoned for 27 years for his stance against apartheid?
+For the above question about "Nelson Mandela", rewrite it into an affirmative sentence.
+Answer: Nelson Mandela was imprisoned for 27 years for his stance against apartheid.
+

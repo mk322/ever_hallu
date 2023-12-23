@@ -1,0 +1,36 @@
+Determine if the following claim is true or false given the evidence.
+Evidence: Penguins are birds that live in Antarctica.
+Claim: Birds can fly.
+Only based on the evidence above, the claim is false
+
+Determine if the following claim is true or false given the evidence.
+Evidence: The capital of France is Paris.
+Claim: Paris is a city in Europe.
+Only based on the evidence above, the claim is true
+
+Determine if the following claim is true or false given the evidence.
+Claim: Honey is produced by bees.
+Evidence: Bees collect nectar from flowers and transform it into honey, storing it in their hives.
+Only based on the evidence above, the claim is true
+
+Determine if the following claim is true or false given the evidence.
+Evidence: Anna Ermakova was born on March 22, 2000 in London, England, UK.
+Claim: Murray Kang was born on March 22nd, 2000.
+Only based on the evidence above, the claim is false
+
+Determine if the following claim is true or false given the evidence.
+Evidence: Roses can come in various colors including red, white, and yellow.
+Claim: All roses are blue.
+Only based on the evidence above, the claim is false
+
+Determine if the following claim is true or false given the evidence.
+Claim: Plants convert carbon dioxide into oxygen.
+Evidence: Through the process of photosynthesis, plants take in carbon dioxide and release oxygen.
+Only based on the evidence above, the claim is true
+
+Determine if the following claim is true or false given the evidence.
+Claim: Diamonds are the hardest natural substance.
+Evidence: On the Mohs scale of mineral hardness, diamonds are rated at 10, making them the hardest known natural material.
+Only based on the evidence above, the claim is true
+
+Determine if the following claim is true or false given the evidence.

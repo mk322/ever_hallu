@@ -1,0 +1,24 @@
+Sentence: Leonardo da Vincian, an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect, was born in Vinci, Italy, on 15 April 1452.
+For the above sentence about "Leonardo da Vinci", generate a yes/no question WITHOUT any pronouns about the entity of "15 April 1452". The question MUST contain the entity.
+Question: Was Leonardo da Vinci born on 15 April 1452?
+
+Sentence: Wolfgang Amadeus Mozart, during his brief lifetime, composed more than 600 works, many of which are acknowledged as the pinnacles of symphonic, concertante, chamber, operatic, and choral music.
+For the above sentence about "Wolfgang Amadeus Mozart", generate a yes/no question WITHOUT any pronouns about the entity of "more than 600 works". The question MUST contain the entity.
+Question: Did Wolfgang Amadeus Mozart compose more than 600 works during his lifetime?
+
+Sentence: Frida Kahlo, a renowned Mexican artist, is best known for her self-portraits and works like "The wounded deer" and "The Two Fridas".
+For the above sentence about "Frida Kahlo", generate a yes/no question WITHOUT any pronouns about the entity of "The Two Fridas". The question MUST contain the entity.
+Question: Did Frida Kahlo create "The Two Fridas"?
+
+Sentence: Isaac Newton published 'Philosophiæ Naturalis Principia Mathematica' in 1687.
+For the above sentence about "Isaac Newton", generate a yes/no question WITHOUT any pronouns about the entity of "'Philosophiæ Naturalis Principia Mathematica' in 1687". The question MUST contain the entity.
+Question: Did Isaac Newton publish 'Philosophiæ Naturalis Principia Mathematica' in 1687?
+
+Sentence: William Shakespeare, a playwright from England, wrote the play "Romeo and Juliet."
+For the above sentence about "William Shakespeare", generate a yes/no question WITHOUT any pronouns about the entity "'Romeo and Juliet'". The question MUST contain the entity.
+Question: Did William Shakespeare write the play "Romeo and Juliet"?
+
+Sentence: Gabriel García Márquez, renowned for his novel "One Hundred Years of Solitude", was a Colombian novelist, short-story writer, and journalist.
+For the above sentence about "Gabriel García Márquez", generate a yes/no question WITHOUT any pronouns that about the entity "Colombian". The question MUST contain the entity.
+Question: Was Gabriel García Márquez Colombian?
+

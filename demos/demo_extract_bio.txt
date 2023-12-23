@@ -1,0 +1,41 @@
+Instruction: Extract all objective factual entities from the provided sentence, excluding the subject, verbs and all subjective words, and present them in a semicolon-separated list.
+Sentence: Claude Monet (14 November 1840 – 26 December 1926) was a French painter born in Rue Laffitte, Paris, France, who along with his companions Auguste Renoir, Edgar Degas and Pierre-Auguste Renoir, is often referred to as the founder of Impressionism.
+Entities: 14 November 1840; 26 December 1926; Rue Laffitte, Paris, France; French; painter; Auguste Renoir; Edgar Degas; Pierre-Auguste Renoir; founder of Impressionism
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: While best known for his work on "E.T. the Extra-Terrestrial," Steven Spielberg has directed numerous iconic films throughout his career.
+Entities: E.T. the Extra-Terrestrial; iconic films
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Before she captured hearts as Princess Leia in "Star Wars," Carrie Fisher had diverse roles in both film and literature.
+Entities: Princess Leia in Star Wars; film; literature
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Michael Jordan, although primarily known for his basketball career, also played professional baseball.
+Entities: basketball; professional baseball
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Marie Curie, born in Warsaw, Poland, won two Nobel Prizes in Physics and Chemistry for her work on radioactivity.
+Entities: Warsaw, Poland; two Nobel Prizes; Physics; Chemistry; radioactivity
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Mother Teresa, an Albanian-Indian Roman Catholic nun, dedicated her life to helping the poor in Kolkata, India, and founded the Missionaries of Charity.
+Entities: Albanian-Indian; Roman Catholic nun; help the poor; Kolkata, India; Missionaries of Charity
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: After immigrating to the United States at a young age, Elon Musk founded several groundbreaking companies, including Tesla and SpaceX.
+Entities: the United States; young age; Tesla; SpaceX
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Lee Min-ho has also won several awards for his outstanding performances in popular films like "Gangnam Blues" and "Bounty Hunters."
+Entities: awards; popular films; Gangnam Blues; Bounty Hunters
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Pablo Escobar, often referred to as "El Patrón," was a Colombian drug lord and the leader of the Medellín Cartel, dominating the cocaine trade during the 1970s and 1980s.
+Entities: El Patrón; Colombian; drug lord; cocaine trade; the Medellín Cartel; cocaine trade; 1970s; 1980s
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Meryl Streep earned widespread acclaim for her performances in films like "The Iron Lady," "Doubt," and "Julie & Julia."
+Entities: The Iron Lady; Doubt; Julie & Julia
+
+Instruction: Identify all objective factual details from the given sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.

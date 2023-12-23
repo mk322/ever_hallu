@@ -1,0 +1,1 @@
+For the entity, write it as an atomic fact within the context provided. 

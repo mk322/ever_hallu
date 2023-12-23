@@ -1,0 +1,60 @@
+Instruction: For each entity separated by semicolons, write it as an atomic fact within the context provided. These atomic facts should be presented in a newline-separated list.
+
+Examples:
+
+Context: Wolfgang Amadeus Mozart, born on 27 January 1756 in Salzburg, was a prolific composer of the Classical era, and he composed over 600 works.
+
+Entities: 27 January 1756; Salzburg; composer of the Classical era; over 600 works.
+
+Atomic Facts:
+Wolfgang Amadeus Mozart was born on 27 January 1756.
+Wolfgang Amadeus Mozart was born in Salzburg.
+Wolfgang Amadeus Mozart was a composer of the Classical era.
+Wolfgang Amadeus Mozart composed over 600 works.
+
+
+Context: Mount Everest, standing at 8,848 meters, is the Earth's highest mountain above sea level and is part of the Himalaya range in Asia.
+
+Entities: 8,848 meters; Earth's highest mountain above sea level; Himalaya range; Asia.
+
+Atomic Facts:
+Mount Everest stands at 8,848 meters.
+Mount Everest is the Earth's highest mountain above sea level.
+Mount Everest is part of the Himalaya range.
+The Himalaya range is in Asia.
+
+
+Context: Leonardo da Vinci, an Italian polymath of the Renaissance, was born on 15 April 1452 and is known for his works like "Mona Lisa" and "The Last Supper."
+
+Entities: Italian polymath; the Renaissance; 15 April 1452; "Mona Lisa"; "The Last Supper".
+
+Atomic Facts:
+Leonardo da Vinci was an Italian polymath.
+Leonardo da Vinci lived in the Renaissance period.
+Leonardo da Vinci was born on 15 April 1452.
+Leonardo da Vinci is known for his work "Mona Lisa".
+Leonardo da Vinci is known for his work "The Last Supper".
+
+
+Context: The Nile River, flowing through eleven countries in northeastern Africa, is the longest river in the world and holds significant historical importance.
+
+Entities: eleven countries in northeastern Africa; longest river in the world; historical importance.
+
+Atomic Facts:
+The Nile River flows through eleven countries in northeastern Africa.
+The Nile is the longest river in the world.
+The Nile holds significant historical importance.
+
+
+Context: Marie Curie, a physicist and chemist, became the first woman to win a Nobel Prize and remains the only person to win Nobel Prizes in two different scientific fields.
+
+Entities: physicist; chemist; first woman; Nobel Prize; two different scientific fields.
+
+Atomic Facts:
+Marie Curie was a physicist.
+Marie Curie was a chemist.
+Marie Curie became the first woman to win a Nobel Prize.
+Marie Curie won a Nobel Prize.
+Marie Curie remains the only person to win Nobel Prizes in two different scientific fields.
+
+

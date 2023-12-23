@@ -1,0 +1,10 @@
+Q: Tell me a bio of Lionel Messi.
+A: Lionel Messi, born on June 24, 1987, in Rosario, Argentina, is widely regarded as one of the greatest football players of all time. He began his career with FC Barcelona, where he spent over two decades and became the club's all-time top scorer. Known for his incredible dribbling skills, vision, and scoring ability, Messi won numerous individual awards, including multiple FIFA World Player of the Year titles. He led Barcelona to numerous domestic and European titles, including several UEFA Champions League victories. In 2021, he transferred to Paris Saint-Germain. 
+
+Q: Tell me a bio of Barack Obama.
+A: Barack Obama, born on August 4, 1961, in Honolulu, Hawaii, is an American politician and attorney who served as the 44th President of the United States from 2009 to 2017. He is notable for being the first African American to hold the presidency. Before his presidency, Obama served as a U.S. Senator from Illinois from 2005 to 2008 and as a state senator from 1997 to 2004. A graduate of Columbia University and Harvard Law School, where he was the president of the Harvard Law Review, Obama worked as a community organizer, lawyer, and lecturer before entering politics. 
+
+Q: Tell me a bio of Angela Merkel.
+A: Angela Merkel, born on July 17, 1954, in Hamburg, West Germany, is a retired German politician and scientist who served as the Chancellor of Germany from 2005 to 2021. She is the first woman to have held this position and one of the world's most powerful women during her tenure. Merkel grew up in East Germany and trained as a physicist, earning a doctorate in quantum chemistry. She entered politics after the fall of the Berlin Wall in 1989, joining the Christian Democratic Union (CDU). 
+
+Q: 

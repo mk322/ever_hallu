@@ -1,0 +1,16 @@
+Based on the evidence, answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Evidence: Jane Austen - BritishLiteratureArchive.org: Jane Austen (16 December 1775 – 18 July 1817) was an English novelist known for her novels that critique the British landed gentry of the 18th century.
+Question: Was Jane Austen an English novelist?
+Answer: The evidence presents Austen as an English novelist. The claim is consistent with this information. Therefore, the decision is True.
+
+Based on the evidence, answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Evidence: Ada Lovelace - WomenInTechHistory.com: Ada Lovelace (10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine.
+Question: Is Ada Lovelace regarded as the first computer programmer?
+Answer: The evidence describes Ada's significant work on the Analytical Engine, a proposed mechanical computer by Charles Babbage. However, it doesn't explicitly state that she is considered the first computer programmer. Therefore, the decision is Not Enough Information.
+
+Based on the evidence, answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Evidence: Leonardo da Vinci - RenaissanceMasters.org: Leonardo da Vinci (15 April 1452 – 2 May 1519) was an Italian polymath of the Renaissance era, known for his works in painting, science, mathematics, and various other fields.
+Question: Was Leonardo da Vinci a 17th-century composer known for his operas?
+Answer: The evidence introduces da Vinci as an Italian polymath from the Renaissance era, acclaimed for his contributions in painting, science, and other areas. The claim erroneously describes him as a 17th-century composer, which doesn't align with the known facts. Therefore, the decision is False.
+
+Based on the evidence, answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.

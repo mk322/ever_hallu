@@ -1,0 +1,21 @@
+Instruction: Identify all objective factual entities from the following sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Claude Monet (14 November 1840 – 26 December 1926) was a French painter born in Rue Laffitte, Paris, France, who along with his companions Auguste Renoir, Edgar Degas and Pierre-Auguste Renoir, is often referred to as the founder of Impressionism.
+Answer: 14 November 1840; 26 December 1926; Rue Laffitte, Paris, France; French; painter; Auguste Renoir; Edgar Degas; Pierre-Auguste Renoir; founder of Impressionism
+
+
+Instruction: Identify all objective factual entities from the following sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Lee Min-ho has also won several awards for his outstanding performances in popular films like "Gangnam Blues" and "Bounty Hunters."
+Answer: awards; popular films; Gangnam Blues; Bounty Hunters
+
+
+Instruction: Identify all objective factual entities from the following sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Pablo Escobar, often referred to as "El Patrón," was a Colombian drug lord and the leader of the Medellín Cartel, dominating the cocaine trade during the 1970s and 1980s.
+Answer: El Patrón; Colombian; drug lord; cocaine trade; the Medellín Cartel; cocaine trade; 1970s; 1980s
+
+
+Instruction: Identify all objective factual entities from the following sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.
+Sentence: Meryl Streep earned widespread acclaim for her performances in films like "The Iron Lady," "Doubt," and "Julie & Julia."
+Answer: The Iron Lady; Doubt; Julie & Julia
+
+
+Instruction: Identify all objective factual entities from the following sentence. Exclude the main subject and any subjective terms. Include all numerical details (such as times, quantities, etc.). Present your findings in a list separated by semicolons.

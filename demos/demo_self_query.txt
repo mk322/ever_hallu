@@ -1,0 +1,25 @@
+Answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Question: Was Jane Austen an English novelist?
+Answer: According to Wikipedia, Jane Austen (1775-1817) was an English novelist who is best known for her six major novels, including "Pride and Prejudice," "Sense and Sensibility," and "Emma." Therefore, the decision is True.
+
+Answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Question: Is Ada Lovelace regarded as the first computer programmer?
+Answer: According to Wikipedia, Ada Lovelace (1815-1852) was an English mathematician and writer, known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. No further information about her high school love is mentioned on Wikipedia. Therefore, the decision is Not Enough Information.
+
+Answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Question: Was Leonardo da Vinci a 17th-century composer known for his operas?
+Answer: According to Wikipedia, Leonardo da Vinci as an Italian polymath from the Renaissance era, acclaimed for his contributions in painting, science, and other areas. The claim erroneously describes him as a 17th-century composer, which doesn't align with the known facts. Therefore, the decision is False.
+
+Answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Question: Did Nelson Mandela ever dream of becoming an astronaut when they were 10 years old?
+Answer: According to Wikipedia, Mthere is no mention of Nelson Mandela ever expressing an interest in becoming an astronaut, especially at the age of 10. Therefore, the answer is Not Enough Information.
+
+Answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Question: Did Martin Luther King Jr. advocate for civil rights using nonviolent means?
+Answer: According to Wikipedia, Martin Luther King Jr. (1929-1968) was an American Baptist minister and activist who is known for his role in the civil rights movement and his advocacy for nonviolent protest. He famously utilized tactics such as boycotts, sit-ins, and peaceful marches to fight for racial equality and justice. Therefore, the decision is True.
+
+Answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Question: Was Amelia Earhart the first woman to travel to space?
+Answer: According to Wikipedia, Amelia Earhart (1897-1937) was an American aviation pioneer and author who was the first female aviator to fly solo across the Atlantic Ocean. However, she disappeared during a flight in 1937 and never traveled to space. Therefore, the decision is False.
+
+Answer the following question by selecting one of these options: True, False, or Not Enough Information. Multiple sources of evidence are presented, each separated by a line break. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION. 

@@ -1,0 +1,25 @@
+Instruction: Extract all factual key phrases from the provided sentence and present them in a semicolon-separated list.
+
+Examples:
+
+Sentence: Claude Monet (14 November 1840 – 26 December 1926) was a French painter born in Rue Laffitte, Paris, France, who along with his companions Auguste Renoir, Edgar Degas and Pierre-Auguste Renoir, is often referred to as the founder of Impressionism.
+Entities: Claude Monet; 14 November 1840; 26 December 1926; Rue Laffitte, Paris, France; French; painter; Auguste Renoir; Edgar Degas; Pierre-Auguste Renoir; founder of Impressionism
+
+Sentence: The Great Wall of China, a series of fortifications made of stone, brick, and other materials, stretches from east to west across the historical northern borders of China.
+Entities: Great Wall of China; fortifications; stone; brick; east to west; historical northern borders of China
+
+Sentence: The Eiffel Tower, located in Paris, France, was completed in 1889 and remains one of the most recognizable structures in the world.
+Entities: Eiffel Tower; Paris, France; completed in 1889; recognizable structures
+
+Sentence: William Shakespeare, often regarded as the greatest writer in the English language, wrote plays like "Romeo and Juliet" and "Hamlet".
+Entities: William Shakespeare; greatest writer; English language; "Romeo and Juliet"; "Hamlet"
+
+Sentence: Marie Curie, born in Warsaw, Poland, won two Nobel Prizes in Physics and Chemistry for her work on radioactivity.
+Entities: Marie Curie; Warsaw, Poland; two Nobel Prizes; Physics; Chemistry; radioactivity
+
+Sentence: Neil Armstrong, an American astronaut, became the first human to walk on the Moon on July 20, 1969.
+Entities: Neil Armstrong; American; astronaut; first human; walk on the Moon; July 20, 1969
+
+Sentence: The Amazon Rainforest, spanning across nine countries in South America, is the largest tropical rainforest in the world, hosting a vast array of biodiversity.
+Entities: The Amazon Rainforest; nine countries in South America; largest tropical rainforest; biodiversity
+

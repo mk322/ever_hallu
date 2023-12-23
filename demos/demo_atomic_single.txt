@@ -1,0 +1,51 @@
+Given the context, extract the entity as a standalone factual statement.
+Context: Wolfgang Amadeus Mozart, born on 27 January 1756 in Salzburg, was a prolific composer of the Classical era, and he composed over 600 works.
+Entity: 27 January 1756
+Standalone Fact: Wolfgang Amadeus Mozart was born on 27 January 1756.
+
+Given the context, extract the entity as a standalone factual statement.
+Context: Mount Everest, standing at 8,848 meters, is the Earth's highest mountain above sea level and is part of the Himalaya range in Asia.
+Entity: 8,848 meters
+Standalone Fact: Mount Everest stands at 8,848 meters.
+
+Given the context, extract the entity as a standalone factual statement.
+Context: The Eiffel Tower, located in Paris, France, was completed in 1889 and stands at 324 meters tall.
+Entity: 324 meters
+Standalone Fact: The Eiffel Tower is 324 meters tall.
+
+Given the context, extract the entity as a standalone factual statement.
+Context: The novel "Pride and Prejudice" by Jane Austen was published in 1813 and is considered one of the greatest works in English literature.
+Entity: 1813
+Standalone Fact: The novel "Pride and Prejudice" was published in 1813.
+
+Given the context, extract the entity as a standalone factual statement.
+Context: The Great Wall of China stretches over 13,000 miles and was constructed to protect Chinese states and empires from raids and invasions.
+Entity: 13,000 miles
+Standalone Fact: The Great Wall of China stretches over 13,000 miles.
+
+Given the context, extract the entity as a standalone factual statement.
+Context: Leonardo da Vinci, an Italian polymath of the Renaissance era, painted the Mona Lisa, which is currently housed in the Louvre Museum in Paris.
+Entity: Mona Lisa
+Standalone Fact: Leonardo da Vinci painted the Mona Lisa.
+
+Given the context, extract the entity as a standalone factual statement.
+Context: The Pacific Ocean, the largest and deepest of Earth's oceanic divisions, covers more than 60 million square miles.
+Entity: 60 million square miles
+Standalone Fact: The Pacific Ocean covers more than 60 million square miles.
+
+Given the context, extract the entity as a standalone factual statement.
+Context: William Shakespeare, an English playwright and poet, wrote "Romeo and Juliet", a tragic love story set in Verona.
+Entity: English playwright
+Standalone Fact: William Shakespeare was an English playwright.
+
+Given the context, extract the entity as a standalone factual statement.
+Context: Marie Curie, a physicist and chemist, became the first woman to win a Nobel Prize and remains the only person to win Nobel Prizes in two different scientific fields.
+Entity: chemist
+Standalone Fact: Marie Curie was a chemist.
+
+Given the context, extract the entity as a standalone factual statement.
+Context: The Grand Canyon, located in the U.S. state of Arizona, is a steep-sided canyon carved by the Colorado River and is known for its immense size and its intricate and colorful landscape.
+Entity: Colorado River
+Standalone Fact: The Colorado River carved the Grand Canyon.
+
+Given the context, extract the entity as a standalone factual statement.

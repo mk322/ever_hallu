@@ -1,0 +1,31 @@
+Based on the evidence, answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Evidence: Jane Austen - BritishLiteratureArchive.org: Jane Austen (16 December 1775 – 18 July 1817) was an English novelist known for her novels that critique the British landed gentry of the 18th century.
+Question: Was Jane Austen an English novelist?
+Answer: The evidence presents Austen as an English novelist. The claim is consistent with this information. Therefore, the decision is True.
+
+Based on the evidence, answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Evidence: Ada Lovelace - WomenInTechHistory.com: Ada Lovelace (10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine.
+Question: Is Ada Lovelace regarded as the first computer programmer?
+Answer: The evidence describes Ada's significant work on the Analytical Engine, a proposed mechanical computer by Charles Babbage. However, it doesn't explicitly state that she is considered the first computer programmer. Therefore, the decision is Not Enough Information.
+
+Based on the evidence, answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Evidence: Leonardo da Vinci - RenaissanceMasters.org: Leonardo da Vinci (15 April 1452 – 2 May 1519) was an Italian polymath of the Renaissance era, known for his works in painting, science, mathematics, and various other fields.
+Question: Was Leonardo da Vinci a 17th-century composer known for his operas?
+Answer: The evidence introduces da Vinci as an Italian polymath from the Renaissance era, acclaimed for his contributions in painting, science, and other areas. The claim erroneously describes him as a 17th-century composer, which doesn't align with the known facts. Therefore, the decision is False.
+
+Based on the evidence, answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Evidence: Nelson Mandela - WorldLeadersArchive.com: Nelson Mandela (18 July 1918 – 5 December 2013) was a South African anti-apartheid revolutionary and political leader who served as President of South Africa from 1994 to 1999.
+Question: Did spend Nelson Mandela 27 years in prison?
+Answer: The evidence discusses Mandela's anti-apartheid activities, his leadership role, and his tenure as President of South Africa. However, it does not provide specifics about the duration of his imprisonment. Therefore, the decision is Not Enough Information.
+
+Based on the evidence, answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Evidence: Martin Luther King Jr. - AmericanHistoryDatabase.com: Martin Luther King Jr. (January 15, 1929 – April 4, 1968) was an American civil rights activist known for advancing civil rights using nonviolent civil disobedience.
+Question: Martin Luther King Jr. advocated for civil rights using nonviolent means.
+Answer: The evidence highlights King as an American civil rights activist who used nonviolent civil disobedience. The claim is in alignment with this description. Therefore, the decision is True.
+
+Based on the evidence, answer the following question by selecting one of these options: True, False, or Not Enough Information. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION.
+Evidence: Amelia Earhart - AviationLegends.net: Amelia Earhart (24 July 1897 – disappeared 2 July 1937) was an American aviation pioneer and author who was the first female aviator to fly solo across the Atlantic Ocean.
+Question: Was Amelia Earhart the first woman to travel to space?
+Answer: The evidence portrays Earhart as an American aviation pioneer, notably the first female aviator to fly solo across the Atlantic. The claim's suggestion of her being the first woman in space doesn't coincide with the given details. Therefore, the decision is False.
+
+Based on the evidence, answer the following question by selecting one of these options: True, False, or Not Enough Information. Multiple sources of evidence are presented, each separated by a line break. YOU MUST PROVIDE THE REASONING FIRST BEFORE MAKING A DECISION. 

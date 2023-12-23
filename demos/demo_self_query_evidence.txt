@@ -1,0 +1,25 @@
+Extract useful information related to the following question from Wikipedia.
+Question: Was Jane Austen an English novelist?
+Answer: According to Wikipedia, Jane Austen (1775-1817) was an English novelist who is best known for her six major novels, including "Pride and Prejudice," "Sense and Sensibility," and "Emma."
+
+Extract useful information related to the following question from Wikipedia.
+Question: Did Nelson Mandela ever dream of becoming an astronaut when they were 10 years old?
+Answer: According to Wikipedia, Mthere is no mention of Nelson Mandela ever expressing an interest in becoming an astronaut, especially at the age of 10.
+
+Extract useful information related to the following question from Wikipedia.
+Question: Did Martin Luther King Jr. advocate for civil rights using nonviolent means?
+Answer: According to Wikipedia, Martin Luther King Jr. (1929-1968) was an American Baptist minister and activist who is known for his role in the civil rights movement and his advocacy for nonviolent protest. He famously utilized tactics such as boycotts, sit-ins, and peaceful marches to fight for racial equality and justice.
+
+Extract useful information related to the following question from Wikipedia.
+Question: Is the Amazon Rainforest primarily located in Brazil?
+Answer: According to Wikipedia, the Amazon Rainforest, also known in English as Amazonia or the Amazon Jungle, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America. This basin encompasses 7,000,000 square kilometers (2,700,000 sq mi), of which 5,500,000 square kilometers (2,100,000 sq mi) are covered by the rainforest. This region includes territory belonging to nine nations and the majority of the forest is contained within Brazil, followed by Peru, Colombia, and minor amounts in other countries.
+
+Extract useful information related to the following question from Wikipedia.
+Question: Is the Eiffel Tower located in Berlin?
+Answer: According to Wikipedia, the Eiffel Tower is not located in Berlin. It is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It was named after the engineer Gustave Eiffel, whose company designed and built the tower.
+
+Extract useful information related to the following question from Wikipedia.
+Question: Was William Shakespeare also known for his painting?
+Answer: According to Wikipedia, William Shakespeare (1564-1616) was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist. He is often called England's national poet and the "Bard of Avon." However, there is no mention of him being known for painting. His fame and legacy are primarily in literature, with famous works including plays like "Hamlet," "Romeo and Juliet," and "Macbeth."
+
+Extract useful information related to the following question from Wikipedia.

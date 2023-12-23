@@ -1,0 +1,18 @@
+Original sentence: Marie Curie, born in Warsaw, Poland, was known primarily for her work in literature and won the Nobel Prize in Physics in 1903.
+Wrong entity: Work in literature; 
+Evidence: Marie Curie was a physicist and chemist known for her research in radioactivity.
+Instruction: Based on the evidence above, correct the wrong entity in the original sentence about the bio of Marie Curie.
+Revised original sentence: Marie Curie, born in Warsaw, Poland, was renowned for her pioneering research in radioactivity and won the Nobel Prize in Physics in 1903 and in Chemistry in 1911.
+
+Original sentence: Mahatma Gandhi, born in South Africa, was a prominent leader in the American civil rights movement during the 1950s.
+Wrong entity: Born in South Africa; 
+Evidence: Mahatma Gandhi was an Indian leader known for his nonviolent resistance against British rule in India.
+Instruction: Based on the evidence above, correct the wrong entity in the original sentence about the bio of Mahatma Gandhi.
+Revised original sentence: Mahatma Gandhi, born in Porbandar, India, was a key figure in India's struggle for independence from British rule and a leader in the philosophy of nonviolent civil disobedience.
+
+Original sentence: Leonardo da Vinci, an 18th-century artist, was famous for his sculpture 'The Thinker'.
+Wrong entity: 18th-century artist; 'The Thinker'
+Evidence: Leonardo da Vinci was a 15th-century polymath known for his paintings. Leonardo da Vinci was famous for his paintings like 'Mona Lisa' and 'The Last Supper'.
+Instruction: Based on the evidence above, correct the wrong entity in the original sentence about the bio of Leonardo da Vinci.
+Revised original sentence: Leonardo da Vinci, a 15th-century Italian polymath, was famous for his paintings such as 'Mona Lisa' and 'The Last Supper'.
+

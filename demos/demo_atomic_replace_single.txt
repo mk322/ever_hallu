@@ -1,0 +1,41 @@
+Given the context, identify the <entity> as a placeholder and provide a concise standalone factual statement about it.
+Context: Wolfgang Amadeus Mozart, born on <entity> in Salzburg, was a prolific composer of the Classical era, and he composed over 600 works.
+Standalone Fact: Wolfgang Amadeus Mozart was born on <entity>.
+
+Given the context, identify the <entity> as a placeholder and provide a concise standalone factual statement about it.
+Context: Born in <entity>, Nelson Mandela became the first black president of South Africa and a global symbol for peace and reconciliation.
+Standalone Fact: Nelson Mandela was born in <entity>.
+
+Given the context, identify the <entity> as a placeholder and provide a concise standalone factual statement about it.
+Context: Although Albert Einstein is widely known for his theory of relativity, he was awarded the Nobel Prize in Physics in 1921 for his discovery of the <entity>.
+Standalone Fact: Albert Einstein discovered the <entity>.
+
+Given the context, identify the <entity> as a placeholder and provide a concise standalone factual statement about it.
+Context: Although primarily known for his <entity>, Charles Darwin also conducted studies on the Venus flytrap, a plant species known for its carnivorous nature.
+Standalone Fact: Charles Darwin was known for his <entity>.
+
+Given the context, identify the <entity> as a placeholder and provide a concise standalone factual statement about it.
+Context: Isaac Newton, who made seminal contributions to multiple scientific fields, is best known for formulating the <entity>, which describe the relationship between a body and the forces acting upon it.
+Standalone Fact: Isaac Newton formulated the <entity>.
+
+Given the context, identify the <entity> as a placeholder and provide a concise standalone factual statement about it.
+Context: Leonardo da Vinci, an Italian polymath of the Renaissance era, painted the <entity>, which is currently housed in the Louvre Museum in Paris.
+Standalone Fact: Leonardo da Vinci painted the <entity>.
+
+Given the context, identify the <entity> as a placeholder and provide a concise standalone factual statement about it.
+Context: As a child prodigy in <entity>, Wolfgang Amadeus Mozart composed over 600 works, making significant contributions to various musical genres.
+Standalone Fact: Wolfgang Amadeus Mozart was a child prodigy in <entity>.
+
+Given the context, identify the <entity> as a placeholder and provide a concise standalone factual statement about it.
+Context: William Shakespeare, an <entity> and poet, wrote "Romeo and Juliet", a tragic love story set in Verona.
+Standalone Fact: William Shakespeare was an <entity>.
+
+Given the context, identify the <entity> as a placeholder and provide a concise standalone factual statement about it.
+Context: After escaping from <entity>, Harriet Tubman became a leading abolitionist and helped many slaves find their way to freedom through the Underground Railroad.
+Standalone Fact: Harriet Tubman escaped from <entity>.
+
+Given the context, identify the <entity> as a placeholder and provide a concise standalone factual statement about it.
+Context: Before serving as the Prime Minister of the UK, Winston Churchill was a soldier and journalist in <entity>.
+Standalone Fact: Winston Churchill was a soldier and journalist in <entity> before becoming Prime Minister.
+
+Given the context, identify the <entity> as a placeholder and provide a concise standalone factual statement about it.
