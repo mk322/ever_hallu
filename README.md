@@ -5,7 +5,7 @@ First, you may need to have a Serper API key. Once you have the API key, pass it
 ```Python
 prompt = "Tell me a bio of Jorge Enríquez."
 
-pipeline = fact_gen(serper_api, gen_model="gpt-3.5-turbo", eval_model="gpt-3.5-turbo", workers_num=16)
+pipeline = fact_gen(serper_api, gen_model="gpt-3.5-turbo", eval_model="gpt-3.5-turbo", workers_num=[The number of CPUs])
 ```
 Run the non-retrieval + evidence retrieval version:
 ```Python
